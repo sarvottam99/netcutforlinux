@@ -1,6 +1,13 @@
 # netcutforlinux
 Deauthentication script to disconnect specific clients from a wifi network for linux users.
 
+
+Prerequisites
+
+aircrack-ng
+
+
+
 Installation and Usage 
 
 
